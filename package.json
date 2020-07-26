@@ -1,0 +1,19 @@
+{
+  "name": "radio-podcast-pronto",
+  "version": "1.0.0",
+  "description": "Projeto para homenagear o rádio através de podcasts",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "keywords": [
+    "radio",
+    "podcast"
+  ],
+  "author": "Raphael Gomide",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "1.2.1"
+  },
+  "devDependencies": {}
+}
